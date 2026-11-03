@@ -6,9 +6,9 @@ Works fully offline. No sign-in, no internet required. Data is backed up automat
 
 ## Download
 
-**Coming soon to Google Play Store!**
+**Google Play Store!**
 
-Join the closed testing pre-release: **[Try on Google Play](https://play.google.com/store/apps/details?id=io.github.praveendeviam.cattlebook)**
+**[Try on Google Play](https://play.google.com/store/apps/details?id=io.github.praveendeviam.cattlebook)**
 
 Or download the APK directly:
 
